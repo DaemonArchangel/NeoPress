@@ -1,2 +1,2 @@
 # NeoPress
-A little Video Compression Algorithm Project written In Rust
+A little Vid Compression Algorithm Project written In Rust
